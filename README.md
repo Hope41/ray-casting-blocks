@@ -1,6 +1,6 @@
 # Ray-casting City
 
-A simple ray-casting experiment.
+Use the Arrow keys, WASD or ZQSD to move the camera around a city.
 
 ![](https://github.com/Hope41/ray-casting-city/blob/main/image.png?raw=true)
 
