@@ -1,4 +1,4 @@
-# Ray-xasting City
+# Ray-casting City
 
 A simple ray-casting experiment.
 
