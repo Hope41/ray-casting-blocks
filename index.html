@@ -271,7 +271,6 @@
                 requestAnimationFrame(update)
             }
 
-            const cvs = document.createElement('canvas')
             const ctx = cvs.getContext('2d')
 
             let time = 0
@@ -299,7 +298,6 @@
 
             const map = new Map(1000, 1000)
             const hero = new Player(1, 1)
-            document.body.appendChild(cvs)
             map.generate()
 
             addEventListener('resize', resize)
